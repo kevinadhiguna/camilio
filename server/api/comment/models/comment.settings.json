@@ -1,0 +1,21 @@
+{
+  "kind": "collectionType",
+  "collectionName": "comments",
+  "info": {
+    "name": "Comment"
+  },
+  "options": {
+    "increments": true,
+    "timestamps": true
+  },
+  "attributes": {
+    "product": {
+      "model": "product",
+      "via": "comments"
+    },
+    "comment": {
+      "type": "richtext",
+      "required": true
+    }
+  }
+}

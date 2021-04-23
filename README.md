@@ -20,3 +20,5 @@ How this app actually looks like :<br>
 ### 🗣️ Adding comments on a Product
 <img src="https://raw.githubusercontent.com/kevinadhiguna/camilio/master/demo/6.adding-comment.png" width="40%"></img>
 <img src="https://raw.githubusercontent.com/kevinadhiguna/camilio/master/demo/7.added-comment.png" width="40%"></img> <br>
+
+[![Visits Badge](https://badges.pufler.dev/visits/kevinadhiguna/camilio)](https://github.com/kevinadhiguna)

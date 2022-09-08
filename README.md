@@ -3,7 +3,10 @@
 Camilio is a product image gallery that users can mark their favorite products or images and put comments on it.<br>
 This app was built using React Native and powered by Strapi and GraphQL.
 
+<br />
+
 ## Demo
+
 How this app actually looks like :<br>
 
 ### 📱 Main Screen
@@ -21,5 +24,6 @@ How this app actually looks like :<br>
 <img src="https://raw.githubusercontent.com/kevinadhiguna/camilio/master/demo/6.adding-comment.png" width="40%"></img>
 <img src="https://raw.githubusercontent.com/kevinadhiguna/camilio/master/demo/7.added-comment.png" width="40%"></img> <br>
 
+<br />
 
 ![Hello !](https://api.visitorbadge.io/api/VisitorHit?user=kevinadhiguna&repo=camilio&label=thanks%20for%20dropping%20in%20!&labelColor=%23000000&countColor=%23FFFFFF)
